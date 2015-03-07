@@ -1,6 +1,6 @@
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\classes\debug
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-effab0df42ea82d49b37bf06dc7fea0c606db158.jar
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\classes-fcc522c55a18085dc05e28d90a0653e10b883888.jar
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\classes-37d7ffd173fab4af091518a63e0cd5a607f37aa6.jar
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-afac923826bd22a936a3187e0257f616165f0106.jar
-C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\classes-590010e661b22d6f11b83a49f7898be44abfd030.jar
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\classes\debug
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-effab0df42ea82d49b37bf06dc7fea0c606db158.jar
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-17bfa7a69e2ccf796c3fe648c7fa3ae29b5b30b8.jar
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-3de977e26e9c3926224ee4bc45e5481a0ceb1ed8.jar
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-35c38891a53ffae1c6e6baad96ec8ccaa4727fab.jar
+C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-1b72c547437dfb9a4d72d62f6fd852081787744b.jar

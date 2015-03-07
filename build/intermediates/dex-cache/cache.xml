@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-1b72c547437dfb9a4d72d62f6fd852081787744b.jar" />
+    </item>
+    <item
         jar="C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
         <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-afac923826bd22a936a3187e0257f616165f0106.jar" />
+    </item>
+    <item
+        jar="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-3de977e26e9c3926224ee4bc45e5481a0ceb1ed8.jar" />
     </item>
     <item
         jar="C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
@@ -35,6 +49,20 @@
         revision="21.1.1"
         sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
         <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat\Application\build\intermediates\pre-dexed\debug\classes-37d7ffd173fab4af091518a63e0cd5a607f37aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-35c38891a53ffae1c6e6baad96ec8ccaa4727fab.jar" />
+    </item>
+    <item
+        jar="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\estelletidey\Documents\HackDay\HackChat2\Application\build\intermediates\pre-dexed\debug\classes-17bfa7a69e2ccf796c3fe648c7fa3ae29b5b30b8.jar" />
     </item>
 
 </items>

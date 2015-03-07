@@ -100,6 +100,8 @@ public class BluetoothChatFragment extends Fragment {
         // Get local Bluetooth adapter
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
 
+
+
         // If the adapter is null, then Bluetooth is not supported
         if (mBluetoothAdapter == null) {
             FragmentActivity activity = getActivity();
@@ -158,6 +160,15 @@ public class BluetoothChatFragment extends Fragment {
         mConversationView = (ListView) view.findViewById(R.id.in);
         mOutEditText = (EditText) view.findViewById(R.id.edit_text_out);
         mSendButton = (Button) view.findViewById(R.id.button_send);
+    }
+
+    public void setChatMessageList(ArrayList<ChatMessage> messageList) {
+        mMessageList.clear();
+        mMessageList.addAll(messageList);
+    }
+
+    public ArrayList<ChatMessage> getChatMessageList() {
+        return new ArrayList<ChatMessage>(mMessageList);
     }
 
     /**
@@ -292,7 +303,7 @@ public class BluetoothChatFragment extends Fragment {
                     switch (msg.arg1) {
                         case BluetoothChatService.STATE_CONNECTED:
                             setStatus(getString(R.string.title_connected_to, mConnectedDeviceName));
-                            mConversationArrayAdapter.clear();
+                            //mConversationArrayAdapter.clear();
                             break;
                         case BluetoothChatService.STATE_CONNECTING:
                             setStatus(R.string.title_connecting);

@@ -1,0 +1,6 @@
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\classes\debug
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-effab0df42ea82d49b37bf06dc7fea0c606db158.jar
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-5f9573cae8bb82add31a7061c6938a1c95ecee49.jar
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-dbd2b1b68e563c6badd1ceb9b65bee8ed3311a6d.jar
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-ce8e8e7e0388c49e2a844afa5db67c6762618781.jar
+C:\Users\estelletidey\Documents\HackDay\BluetoothChat\Application\build\intermediates\pre-dexed\debug\classes-ac3aa13f2b01fecf5baf69e8ef160d857610fe26.jar

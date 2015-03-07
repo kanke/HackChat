@@ -1,5 +1,6 @@
 package com.example.android.bluetoothchat;
 
+import android.graphics.Color;
 import android.widget.ArrayAdapter;
 import android.content.Context;
 import com.example.android.bluetoothchat.ChatMessage;
@@ -8,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.LayoutInflater;
 import android.widget.TextView;
+import android.graphics.Color;
 
 /**
  * Created by estelletidey on 07/03/2015.
@@ -32,6 +34,12 @@ public class ChatMessageAdapter extends ArrayAdapter<ChatMessage> {
         // Populate the data into the template view using the data object
         msgUser.setText(chatMessage.user);
         msgText.setText(chatMessage.msg);
+        if (chatMessage.isMe) {
+            msgUser.setTextColor(Color.RED);
+        }
+        else {
+            msgUser.setTextColor(Color.BLUE);
+        }
         // Return the completed view to render on screen
         return convertView;
     }

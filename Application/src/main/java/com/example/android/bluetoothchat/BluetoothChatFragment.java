@@ -318,13 +318,13 @@ public class BluetoothChatFragment extends Fragment {
                     byte[] writeBuf = (byte[]) msg.obj;
                     // construct a string from the buffer)
                     String writeMessage = new String(writeBuf);
-                    mConversationArrayAdapter.add(new ChatMessage("Me", writeMessage));
+                    mConversationArrayAdapter.add(new ChatMessage(true, "Me", writeMessage));
                     break;
                 case Constants.MESSAGE_READ:
                     byte[] readBuf = (byte[]) msg.obj;
                     // construct a string from the valid bytes in the buffer
                     String readMessage = new String(readBuf, 0, msg.arg1);
-                    mConversationArrayAdapter.add(new ChatMessage(mConnectedDeviceName, readMessage));
+                    mConversationArrayAdapter.add(new ChatMessage(false, mConnectedDeviceName, readMessage));
                     break;
                 case Constants.MESSAGE_DEVICE_NAME:
                     // save the connected device's name
